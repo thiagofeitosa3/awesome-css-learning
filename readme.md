@@ -1,6 +1,7 @@
 # Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="125" align="right" alt="CSS Logo"></a>
 
 > An awesome list limited to the best CSS learning resources
+Repositorio do Thiago
 
 This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – the language and the modules. Not about naming conventions, architecture paradigms, frameworks, pre-processors, post-processors, CSS-in-JS or other aspects of todays CSS ecosystem.
 
